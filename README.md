@@ -17,20 +17,13 @@ Technical Specs (what is important for us):
 ## Clover
 
 I started working with Clover, getting everything working thanks to [this guide at OSXlatitude.com](https://osxlatitude.com/forums/topic/11410-dell-latitude-7490-with-i7-8650u-intel-uhd-620-and-1920x1080-lcd-mojavecatalina/). 
-[] XXX
-[] XXX
-[] XXX
-[] XXX
-[] XXX
-[] XXX
-[] XXX
-[] XXX
-[] XXX
-[] XXX
-[] XXX
-[] XXX
-[] XXX
-[] XXX
+[ ] XXX
+[ ] XXX
+[ ] XXX
+[ ] XXX
+[ ] XXX
+[ ] XXX
+
 
 
 
