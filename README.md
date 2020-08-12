@@ -30,6 +30,7 @@ I started working with Clover, getting everything working thanks to [this guide 
 - [X] USB ports
 - [X] Keyboard + fn keys
 - [X] Trackpad
+  - PHYSICAL BUTTONS ARE NOT WORKING
 - [X] Bluetooth
 - [X] Wifi
 - [X] Handoff / Continuity / Sidecar
@@ -50,6 +51,35 @@ I started working with Clover, getting everything working thanks to [this guide 
 ## OpenCore
 
 When Big Sur beta was issued, I tried with Clover, but failed to have it running in this computer. I switched from Clover to Opencore using the excellent [Dortania guide](https://dortania.github.io/OpenCore-Install-Guide/), being successfull after some days. From now on, I will be only using OpenCore and updating here on a regular basis.
+
+### What is working:
+
+- [X] Intel Processor + Sleep + Power Management
+- [X] Intel UHD 620 with Metal
+- [X] Video output through VGA
+- [X] Video output through Displayport over USBC
+- [X] Sound though internal speakers
+- [X] Sound through headphone jack
+- [X] Internal Microphone
+- [X] USB ports
+- [X] Keyboard + fn keys
+- [X] Trackpad
+- [X] Bluetooth
+- [X] Wifi
+- [X] Handoff / Continuity / Sidecar
+- [X] iMessages / Facetime
+- [X] Dual Boot
+- [X] MacOS Catalina
+- [X] MacOS Big Sur Beta
+
+### What is not working
+- [ ] Sound through headphone jack
+- [ ] SD Reader
+- [ ] Trackpoint
+
+
+### What I don't have tested yet
+- [ ] Video + audio output though HDMI
 
 ### What is working:
 
