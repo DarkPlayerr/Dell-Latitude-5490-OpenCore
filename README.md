@@ -30,21 +30,23 @@ I started working with Clover, getting everything working thanks to [this guide 
 - [X] USB ports
 - [X] Keyboard + fn keys
 - [X] Trackpad
-  - PHYSICAL BUTTONS ARE NOT WORKING
+  - Physical buttons are not working. You will have to set up "tap to click" in System Preferences / Trackpad
 - [X] Bluetooth
 - [X] Wifi
-- [X] Handoff / Continuity / Sidecar
+- [X] Handoff / Continuity / (wired) Sidecar
+  - Sidecar it a hit and miss, not very reliable
 - [X] iMessages / Facetime
-- [X] Dual Boot
+- [X] Dual Boot with Windows 10
 - [X] MacOS Catalina
 
 ### What is not working
 - [ ] Sound through headphone jack
 - [ ] SD Reader
 - [ ] Trackpoint
+- [ ] Trackpad buttons
 - [ ] MacOS Big Sur Beta
 
-### What I don't have tested yet
+### What I haven't tested yet
 - [ ] Video + audio output though HDMI
 
 
@@ -64,11 +66,11 @@ When Big Sur beta was issued, I tried with Clover, but failed to have it running
 - [X] USB ports
 - [X] Keyboard + fn keys
 - [X] Trackpad
+  - Physical buttons are not working. You will have to set up "tap to click" in System Preferences / Trackpad
 - [X] Bluetooth
 - [X] Wifi
-- [X] Handoff / Continuity / Sidecar
+- [X] Handoff / Continuity / (wired and wireless!) Sidecar
 - [X] iMessages / Facetime
-- [X] Dual Boot
 - [X] MacOS Catalina
 - [X] MacOS Big Sur Beta
 
@@ -76,37 +78,11 @@ When Big Sur beta was issued, I tried with Clover, but failed to have it running
 - [ ] Sound through headphone jack
 - [ ] SD Reader
 - [ ] Trackpoint
-
-
-### What I don't have tested yet
+- [ ] Trackpad buttons
+- [ ] Dual Boot with Windows 10
+  - It boots to the Windows recovery tool. I am working on this
+  
+### What I haven't tested yet
 - [ ] Video + audio output though HDMI
-
-### What is working:
-
-- [ ] Intel Processor + Sleep + Power Management
-- [ ] Intel UHD 620 with Metal
-- [ ] Video output through VGA
-- [ ] Video + audio output though HDMI
-- [ ] Video output through Displayport over USBC
-- [ ] Sound though internal speakers
-- [ ] Sound through headphone jack
-- [ ] Internal Microphone
-- [ ] USB ports
-- [ ] SD Reader
-- [ ] Keyboard + fn keys
-- [ ] Trackpoint
-- [ ] Trackpad
-- [ ] Bluetooth
-- [ ] Wifi
-- [ ] Handoff / Continuity / Sidecar
-- [ ] iMessages / Facetime
-- [ ] Dual Boot
-- [ ] MacOS Catalina
-- [ ] MacOS Big Sur Beta
-
-### What is not working
-
-
-### What I don't have tested yet
 
 
