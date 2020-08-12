@@ -1,3 +1,5 @@
+
+
 # DellBookPro
 
 These files are valid for a Dell Latitude E5490. There are some Dell computers with the same specs, such as 7490, who can benefit from this as well. As there are specific tweaks for Dell laptops, you could or could not be able to make it work with other computers wit the same specifications. Previously it was working with Clover, but later I migrated to OpenCore; you can find both attached.
